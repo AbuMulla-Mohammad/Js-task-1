@@ -1,0 +1,18 @@
+.demo{
+    background-color: #EEE;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    text-transform: uppercase;
+}
+.vip{
+    color: #fff;
+    background-color: black;
+    border-radius: 8px;
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+    text-transform: uppercase;
+}
